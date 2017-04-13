@@ -1,0 +1,28 @@
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\bin\Debug\TimeDate.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\bin\Debug\TimeDate.exe
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\bin\Debug\TimeDate.pdb
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\bin\Debug\TimeDate.xml
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\obj\Debug\TimeDate.FormOrangMeninggal.resources
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\obj\Debug\TimeDate.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\obj\Debug\TimeDate.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\obj\Debug\TimeDate.exe
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\obj\Debug\TimeDate.xml
+c:\users\asus\documents\visual studio 2012\Projects\TimeDate\TimeDate\obj\Debug\TimeDate.pdb
+G:\Project\TimeDate\TimeDate\bin\Debug\TimeDate.exe.config
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.exe
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.xml
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.pdb
+G:\Project\TimeDate\TimeDate\bin\Debug\TimeDate.exe
+G:\Project\TimeDate\TimeDate\bin\Debug\TimeDate.pdb
+G:\Project\TimeDate\TimeDate\bin\Debug\TimeDate.xml
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.FormOrangMeninggal.resources
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.Resources.resources
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.vbproj.GenerateResource.Cache
+G:\Project\TimeDate\TimeDate\bin\Debug\TimeDate.exe.manifest
+G:\Project\TimeDate\TimeDate\bin\Debug\TimeDate.application
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.exe.manifest
+G:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.application
+H:\Project\TimeDate\TimeDate\bin\Debug\TimeDate.exe.config
+H:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.exe
+H:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.xml
+H:\Project\TimeDate\TimeDate\obj\Debug\TimeDate.pdb
